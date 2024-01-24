@@ -13,3 +13,4 @@ Deze dataset is als json endpoint op te halen via:
 * Maak een master/detail tabel overzicht van alle meldingen. Een lijst van meldingen. Klik je op een melding ga je naar de detailpagina van die melding waar je meer data vindt.
 * Maak een kaart met leaflet js, maak markers van alle meldingen. Na een klik op de marker zie je details
 * Maak een kalenderweergave met fullcalendar waarbij je alle meldingen toont in de kalender
+* Maak een grafiek met Chart JS een lijngrafiek waarbij je per maand laat zien hoeveel meldingen er gedaan zijn. 
