@@ -1,0 +1,205 @@
+{
+    "meldingen": [
+      {
+        "latlng": {
+          "lat": 51.5866,
+          "lng": 4.7751
+        },
+        "melder_email": "melder1@example.com",
+        "locatie_beschrijving": "Nieuwe Ginnekenstraat 123, Breda",
+        "melding_beschrijving": "Losse stoeptegel voor huisnummer 123.",
+        "datum_melding": "2024-02-01"
+      },
+      {
+        "latlng": {
+          "lat": 51.5942,
+          "lng": 4.7787
+        },
+        "melder_email": "melder2@example.com",
+        "locatie_beschrijving": "Van Coothplein, Breda",
+        "melding_beschrijving": "Kapot verkeersbord bij het Van Coothplein.",
+        "datum_melding": "2024-02-05"
+      },
+      {
+        "latlng": {
+          "lat": 51.5807,
+          "lng": 4.7761
+        },
+        "melder_email": "melder3@example.com",
+        "locatie_beschrijving": "Valkenstraat 45, Breda",
+        "melding_beschrijving": "Graffiti op de gevel van huisnummer 45.",
+        "datum_melding": "2024-02-10"
+      },
+      {
+        "latlng": {
+          "lat": 51.5924,
+          "lng": 4.7803
+        },
+        "melder_email": "melder4@example.com",
+        "locatie_beschrijving": "Centraal Station, Breda",
+        "melding_beschrijving": "Overlast van zwerfvuil rondom het Centraal Station.",
+        "datum_melding": "2024-02-15"
+      },
+      {
+        "latlng": {
+          "lat": 51.5879,
+          "lng": 4.7682
+        },
+        "melder_email": "melder5@example.com",
+        "locatie_beschrijving": "Speelplein Princenhage, Breda",
+        "melding_beschrijving": "Kapotte schommel op het speelplein.",
+        "datum_melding": "2024-02-20"
+      },
+      {
+        "latlng": {
+          "lat": 51.5812,
+          "lng": 4.7767
+        },
+        "melder_email": "melder6@example.com",
+        "locatie_beschrijving": "Wilhelminapark, Breda",
+        "melding_beschrijving": "Overhangende takken in het Wilhelminapark.",
+        "datum_melding": "2024-02-25"
+      },
+      {
+        "latlng": {
+          "lat": 51.5957,
+          "lng": 4.7674
+        },
+        "melder_email": "melder7@example.com",
+        "locatie_beschrijving": "Hoge Vucht, Breda",
+        "melding_beschrijving": "Grote kuil in de weg in de Hoge Vucht.",
+        "datum_melding": "2024-03-01"
+      },
+      {
+        "latlng": {
+          "lat": 51.5773,
+          "lng": 4.7828
+        },
+        "melder_email": "melder8@example.com",
+        "locatie_beschrijving": "Ginnekenmarkt, Breda",
+        "melding_beschrijving": "Kapot bankje op de Ginnekenmarkt.",
+        "datum_melding": "2024-03-05"
+      },
+      {
+        "latlng": {
+          "lat": 51.5901,
+          "lng": 4.7789
+        },
+        "melder_email": "melder9@example.com",
+        "locatie_beschrijving": "Gasthuisvelden, Breda",
+        "melding_beschrijving": "Onverlichte straatverlichting in de Gasthuisvelden.",
+        "datum_melding": "2024-03-10"
+      },
+      {
+        "latlng": {
+          "lat": 51.5825,
+          "lng": 4.7776
+        },
+        "melder_email": "melder10@example.com",
+        "locatie_beschrijving": "Cingelstraat, Breda",
+        "melding_beschrijving": "Vuilniszakken op straat in de Cingelstraat.",
+        "datum_melding": "2024-03-15"
+      },
+      {
+        "latlng": {
+          "lat": 51.5888,
+          "lng": 4.7793
+        },
+        "melder_email": "melder11@example.com",
+        "locatie_beschrijving": "Stadspark, Breda",
+        "melding_beschrijving": "Beschadigde bank in het Stadspark.",
+        "datum_melding": "2024-03-20"
+      },
+      {
+        "latlng": {
+          "lat": 51.5842,
+          "lng": 4.7687
+        },
+        "melder_email": "melder12@example.com",
+        "locatie_beschrijving": "Teteringsedijk 87, Breda",
+        "melding_beschrijving": "Gat in het fietspad voor huisnummer 87.",
+        "datum_melding": "2024-03-25"
+      },
+      {
+        "latlng": {
+          "lat": 51.5796,
+          "lng": 4.7815
+        },
+        "melder_email": "melder13@example.com",
+        "locatie_beschrijving": "Veemarktstraat, Breda",
+        "melding_beschrijving": "Gebroken glas op de stoep in de Veemarktstraat.",
+        "datum_melding": "2024-04-01"
+      },
+      {
+        "latlng": {
+          "lat": 51.5938,
+          "lng": 4.7769
+        },
+        "melder_email": "melder14@example.com",
+        "locatie_beschrijving": "Lichtstraat, Breda",
+        "melding_beschrijving": "Niet werkende straatverlichting in de Lichtstraat.",
+        "datum_melding": "2024-04-05"
+      },
+      {
+        "latlng": {
+          "lat": 51.5881,
+          "lng": 4.7765
+        },
+        "melder_email": "melder15@example.com",
+        "locatie_beschrijving": "Baronielaan 210, Breda",
+        "melding_beschrijving": "Overstekende takken voor huisnummer 210.",
+        "datum_melding": "2024-04-10"
+      },
+      {
+        "latlng": {
+          "lat": 51.5932,
+          "lng": 4.7678
+        },
+        "melder_email": "melder16@example.com",
+        "locatie_beschrijving": "Speelplein Haagse Beemden, Breda",
+        "melding_beschrijving": "Beschadigde glijbaan op het speelplein.",
+        "datum_melding": "2024-04-15"
+      },
+      {
+        "latlng": {
+          "lat": 51.5853,
+          "lng": 4.7802
+        },
+        "melder_email": "melder17@example.com",
+        "locatie_beschrijving": "Haagweg 34, Breda",
+        "melding_beschrijving": "Graffiti op de muur voor huisnummer 34.",
+        "datum_melding": "2024-04-20"
+      },
+      {
+        "latlng": {
+          "lat": 51.5817,
+          "lng": 4.7769
+        },
+        "melder_email": "melder18@example.com",
+        "locatie_beschrijving": "Willemstraat, Breda",
+        "melding_beschrijving": "Onkruid op het trottoir in de Willemstraat.",
+        "datum_melding": "2024-04-25"
+      },
+      {
+        "latlng": {
+          "lat": 51.5971,
+          "lng": 4.7814
+        },
+        "melder_email": "melder19@example.com",
+        "locatie_beschrijving": "Biesdonkweg, Breda",
+        "melding_beschrijving": "Verstopte rioolput in de Biesdonkweg.",
+        "datum_melding": "2024-05-01"
+      },
+      {
+        "latlng": {
+          "lat": 51.5916,
+          "lng": 4.7701
+        },
+        "melder_email": "melder20@example.com",
+        "locatie_beschrijving": "Markendaalseweg 76, Breda",
+        "melding_beschrijving": "Verkeerd geparkeerde auto voor huisnummer 76.",
+        "datum_melding": "2024-05-05"
+      }
+    ]
+  }
+  
