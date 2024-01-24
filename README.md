@@ -5,6 +5,6 @@ De dataset moet een meldingsysteem voorstellen van de Gemeente Breda, waarbij me
 
 Deze dataset is als json endpoint op te halen via:
 
-* GET:  my-json-server.typicode.com/curio-lesmateriaal/meldingen/meldingen/      collection
-* GET:  my-json-server.typicode.com/curio-lesmateriaal/meldingen/meldingen/1     detail
+* GET:  my-json-server.typicode.com/curio-lesmateriaal/meldingen/meldingen/      
+* GET:  my-json-server.typicode.com/curio-lesmateriaal/meldingen/meldingen/1     
 
